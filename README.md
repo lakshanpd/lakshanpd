@@ -16,11 +16,10 @@ Currently, I'm doing my **Software Engineering internship at WSO2**.
 
 ### 📫 Connect with Me  
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/danuka-lakshan-b92b91247) &nbsp;
-  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/DanukaLakshan) &nbsp;
-  [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@lakshanpd.cse21) &nbsp;
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/danuka-lakshan) &nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/DanukaLakshan) &nbsp;
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@your-medium-username) &nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-username)
 
 
 <p align="center">
