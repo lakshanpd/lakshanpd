@@ -16,18 +16,12 @@ Currently, I'm doing my **Software Engineering internship at WSO2**.
 
 ### 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/danuka-lakshan) &nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/DanukaLakshan) &nbsp;
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@your-medium-username) &nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-username)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/danuka-lakshan-b92b91247) &nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/lakshanpd) &nbsp;
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@lakshanpd.cse21) &nbsp;
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshanpd&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" style="margin-right: 4%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanpd&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanpd&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshanpd&show_icons=true&theme=tokyonight" alt="GitHub Stats" >
 </p>
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanpd&theme=tokyonight)
 
