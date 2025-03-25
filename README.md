@@ -21,7 +21,7 @@ Currently, I'm doing my **Software Engineering internship at WSO2**.
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@lakshanpd.cse21) &nbsp;
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanpd&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshanpd&show_icons=true&theme=tokyonight" alt="GitHub Stats" >
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshanpd&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" style="margin-right: 4%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanpd&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
 
