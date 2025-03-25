@@ -23,9 +23,10 @@ Currently, I'm doing my **Software Engineering internship at WSO2**.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshanpd&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshanpd&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" style="margin-right: 4%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanpd&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
+
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanpd&theme=tokyonight)
